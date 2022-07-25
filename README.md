@@ -13,4 +13,4 @@ In this project, I will be analysing this [Stroke prediction dataset](https://ww
 Our coaches, particularly Shantanu Pandey, my classmates, my tech community in Milton Keynes and the global tech community for the amazing resources available online.
 
 ## Outcome
-TBD
+PASS
